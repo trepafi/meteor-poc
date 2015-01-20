@@ -2,6 +2,11 @@ Testing Meteor
 ==
 First steps and testing Meteor and trepafi's Meteor packages
 
+## Documentation summary
+- [Semantic UI](./docs/semantic-ui.md)
+- [Rooting](./docs/routing.md)
+
+
 ## Creating an app
 ```
 meteor create testing-meteor
@@ -19,7 +24,7 @@ this will create the following structure
 0 directories, 3 files
 ```
 
-However we can ended up with something better
+However we will ended up with something better
 
 ## Packages
 
@@ -37,11 +42,6 @@ However we can ended up with something better
 
     Take in mind that for **production ready** state we need to remove `autopublish` package
 
-
-## Documentation
-- [Semantic UI](./docs/semantic-ui.md)
-- [Rooting](./docs/routing.md)
-
 ## TODO
-- [ ] Add iron router
+- [x] Add iron router
 - [ ] Add trepafi:mapbox package
