@@ -50,4 +50,4 @@ meteor
 
 ## TODO
 - [x] Add iron router
-- [ ] Add trepafi:mapbox package
+- [x] Add trepafi:mapbox package
