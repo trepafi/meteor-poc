@@ -5,7 +5,7 @@ Let's add and test Semanctic UI package
 meteor add trepafi:semanctic-ui
 ```
 
-### Usage:
+### Styles usage
 ```
 <div class="ui card">
     <div class="image dimmable">
