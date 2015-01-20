@@ -19,6 +19,8 @@ this will create the following structure
 0 directories, 3 files
 ```
 
+However we can ended up with something better
+
 ## Packages
 
 - **Listing packages**
@@ -36,9 +38,9 @@ this will create the following structure
     Take in mind that for **production ready** state we need to remove `autopublish` package
 
 
-## Proof of concept
+## Documentation
 - [Semantic UI](./docs/semantic-ui.md)
-
+- [Rooting](./docs/routing.md)
 
 ## TODO
 - [ ] Add iron router
