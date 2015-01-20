@@ -26,6 +26,11 @@ this will create the following structure
 
 However we will ended up with something better
 
+## Running
+```
+meteor
+```
+
 ## Packages
 
 - **Listing packages**
