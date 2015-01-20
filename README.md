@@ -3,8 +3,9 @@ Testing Meteor
 First steps and testing Meteor and trepafi's Meteor packages
 
 ## Documentation summary
-- [Semantic UI](./docs/semantic-ui.md)
 - [Rooting](./docs/routing.md)
+- [Semantic UI](./docs/semantic-ui.md)
+- [MapBox.js](./docs/mapbox.md)
 
 
 ## Creating an app
