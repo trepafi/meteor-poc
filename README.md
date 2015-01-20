@@ -36,5 +36,10 @@ this will create the following structure
     Take in mind that for **production ready** state we need to remove `autopublish` package
 
 
-## Docs
+## Proof of concept
 - [Semantic UI](./docs/semantic-ui.md)
+
+
+## TODO
+- [ ] Add iron router
+- [ ] Add trepafi:mapbox package
