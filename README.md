@@ -19,18 +19,6 @@ this will create the following structure
 0 directories, 3 files
 ```
 
-## Client/Server
-Let's create folders for `client` and `server`
-```
-➜  testing-meteor  tree
-.
-|-- client
-|   |-- testing-meteor.css
-|   |-- testing-meteor.html
-|   `-- testing-meteor.js
-`-- server
-```
-
 ## Packages
 
 - **Listing packages**
