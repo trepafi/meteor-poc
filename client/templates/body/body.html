@@ -1,0 +1,15 @@
+<template name="bodyApp">
+    <div class="ui segment">
+        <h1>Meteor POC</h1>
+        <div class="ui vertical menu">
+            <a href="{{pathFor route='home'}}" class="teal item">
+                Home
+            </a>
+            <a href="{{pathFor route='ui'}}" class="item">
+                Semantic UI
+            </a>
+        </div>
+        <a ></a>
+        {{> yield }}
+    </div>
+</template>
