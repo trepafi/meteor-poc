@@ -1,6 +1,8 @@
 Testing Meteor
 ==
-First steps and testing Meteor and trepafi's Meteor packages
+First steps, testing Meteor and trepafi's Meteor packages
+
+Can find the result [here](http://trepafi.meteor.com/)
 
 ## Documentation summary
 - [Rooting](./docs/routing.md)
